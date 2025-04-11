@@ -1,6 +1,7 @@
-streamlit
-transformers
-tensorflow
-torch 
+streamlit>=1.32.0
+transformers<=4.36.2
+tensorflow<2.15
+tf-keras
+torch>=2.0.0
 torchaudio
 torchvision
